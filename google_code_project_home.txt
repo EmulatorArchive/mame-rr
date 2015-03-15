@@ -1,0 +1,36 @@
+mame-rr
+MAME Rerecording
+
+MAME Rerecording is the rerecording version of MAME (http://mamedev.org/) with many customized features designed to aid in recording movie input files.
+
+News
+
+July 24, 2010: Started this project.
+
+Releases
+
+There's only a pre-alpha version at this time: mame-rr-0139-test2.7z
+
+Documentation
+
+LuaScriptingFunctions	Lua scripting function list.
+
+CommandLine	Command line tutorial.
+
+UsingClrmamepro	How to manage ROMs
+
+Lua scripts
+
+Hitbox viewer for many games.
+
+On-screen info display for fighting games.
+
+Scrolling display for fighting games.
+
+Macrolua input-scripting tool.
+
+MESS
+
+MESS will be supported too, since the source modifications are 100% compatible so far.
+
+(Saved: March 14, 2015)
